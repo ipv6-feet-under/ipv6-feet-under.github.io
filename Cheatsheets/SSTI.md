@@ -109,3 +109,5 @@ $str.valueOf($chr.toChars($out.read()))
 @(1+2)
 @{// C# code}
 ```
+
+[Source](https://blog.cobalt.io/a-pentesters-guide-to-server-side-template-injection-ssti-c5e3998eae68)
