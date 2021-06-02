@@ -110,4 +110,9 @@ $str.valueOf($chr.toChars($out.read()))
 @{// C# code}
 ```
 
+If you need to evade WAF check this site out: https://gusralph.info/jinja2-ssti-research/
+
+
 [Source](https://blog.cobalt.io/a-pentesters-guide-to-server-side-template-injection-ssti-c5e3998eae68)
+[More Useful Information](https://book.hacktricks.xyz/pentesting-web/ssti-server-side-template-injection)
+[Even More](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Server%20Side%20Template%20Injection#twig)
