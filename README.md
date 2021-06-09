@@ -190,6 +190,7 @@ https://ocw.cs.pub.ro/courses/cns
 https://www.pentesteracademy.com/
 https://tryhackme.com/
 https://learn.hacktify.in/collections?category=courses&page=1
+https://crackmes.one/
 
 ### Code
 http://www.codecraftgame.org/
