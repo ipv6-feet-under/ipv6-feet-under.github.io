@@ -1,4 +1,4 @@
-(insert good title here)
+<s>(insert good title here)</s> SysTeen
 ================
 
 - [Cheatsheets](#Cheatsheets)
