@@ -1,4 +1,4 @@
-Intel (insert better title here)
+(insert good title here)
 ================
 
 - [Cheatsheets](#Cheatsheets)
@@ -181,6 +181,7 @@ https://wiki.skullsecurity.org/Passwords
 
 ### Hack
 https://app.hackthebox.eu/dashboard
+https://academy.hackthebox.eu/dashboard
 https://www.hackthissite.org/
 https://www.hacksplaining.com/
 https://www.hacking-lab.com/index.html
@@ -193,6 +194,8 @@ https://learn.hacktify.in/collections?category=courses&page=1
 ### Code
 http://www.codecraftgame.org/
 https://codingbat.com/
+http://www.programmr.com/zone/cpp
+http://www.codecademy.com/dashboard
 
 ## Misc (yet to sort)
 
