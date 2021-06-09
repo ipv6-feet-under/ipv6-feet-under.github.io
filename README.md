@@ -1,16 +1,16 @@
 Intel (insert better title here)
 ================
 
-[Cheatsheets](#Cheatsheets)
-[Enumeration](#Enumeration)
-[Privelege Escalation](#Privilege Escalation)
-[Steganography](#Steganography)
-[Cryptography](#Cryptography)
-[Reverse Engineering](#Reverse Engineering)
-[Wordlists](#Wordlists)
-[Learn To](#Learn To)
+- [Cheatsheets](#Cheatsheets)
+- [Enumeration](#Enumeration)
+- [Privelege Escalation](#Privilege-Escalation)
+- [Steganography](#Steganography)
+- [Cryptography](#Cryptography)
+- [Reverse Engineering](#Reverse-Engineering)
+- [Wordlists](#Wordlists)
+- [Learn To](#Learn-To)
 
-
+----------------------------------
 
 # Cheatsheets
 
