@@ -1,6 +1,7 @@
-body {
+html, body {
  background-image: url("assets/background.jpeg");
  background-color: #cccccc;
  background-repeat:no-repeat;
  background-position: center center;
+ min-height:100%;
 }
